@@ -1,0 +1,26 @@
+NodeJS: Criando primeira biblioteca
+
+O que é uma biblioteca?
+- Pacote de código utilizado para automatizar ou otimizar uma tarefa, e podemos importar ou exportar.
+
+Node é um conjunto de comandos para rodar código JS fora do navegador.
+
+npm é um gerenciador de pacotes do node. Gerenciadores de pacotes são repositórios de código aberto nos quais devs disponibilizam soluções para o uso da comunidade.
+
+Bibliotecas instaladas/utilizadas:
+° Chalk;
+° - fs;
+°
+°
+
+programação assicrona/código assicrono: mandou a comunicação e quando a resposta não acontece ele vai fazendo outra coisa, realiza tarefa em segundo plano.
+
+promisses a forma que o JS lida com código assicrono
+
+
+Como usar Callbacks - Chamada de retorno:
+
+JS só executa uma coisa por vez, 
+
+
+
