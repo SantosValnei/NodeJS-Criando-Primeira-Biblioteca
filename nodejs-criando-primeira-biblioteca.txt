@@ -22,5 +22,8 @@ Como usar Callbacks - Chamada de retorno:
 
 JS só executa uma coisa por vez, 
 
+expressões regulares são objetos que mapeiam padrões de texto por meio de uma linguagem 
+própria, com sintaxe e regras específicas. Elas são uma ferramenta eficiente para resolver
+problemas de código que envolvem padrões e buscas textuais.
 
 
